@@ -18,3 +18,18 @@ Ideal for professionals, developers, and researchers who want concise, personali
 - **Pipenv** – Dependency and environment management
 
 ## 📁 Project Structure
+---
+PROJECT STRUCTURE
+```
+.
+├── frontend.py          # Streamlit UI
+├── backend.py           # API & data processing  
+├── utils.py             # UTILS  
+├── news_scraper.py      # News Scraper  
+├── reddit_scraper.py    # Reddit Scraper  
+├── models.py            # Pydantic model
+
+└── requirements.txt     # Alternative dependency list
+```
+
+---
