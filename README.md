@@ -1,4 +1,4 @@
-# AI-news-Journalist
+
 # 🤖 AI Journalist – Stealthy News Aggregator
 
 Your personal AI journalist silently gathers headlines and Reddit reactions, then delivers AI-powered audio briefings — **no scroll, just soul**.
